@@ -9,3 +9,4 @@
               실제 그러한 정보들 간의 상관관계가 얼마나 있는지 궁금하여 이 주제를 정하게 되었습니다.
               최종적으로는 대략적인 범위로나마 판매량을 예측 할 수 있기를 바랍니다.
               
+<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
