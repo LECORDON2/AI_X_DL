@@ -9,4 +9,4 @@
               실제 그러한 정보들 간의 상관관계가 얼마나 있는지 궁금하여 이 주제를 정하게 되었습니다.
               최종적으로는 대략적인 범위로나마 판매량을 예측 할 수 있기를 바랍니다.
               
-[![Video Label](http://img.youtube.com/vi/UmfGFa5bNO0/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+[![Video Label](http://img.youtube.com/vi/UmfGFa5bNO0/0.jpg)](https://www.youtube.com/watch?v=UmfGFa5bNO0)
