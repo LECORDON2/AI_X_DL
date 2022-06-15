@@ -4,3 +4,5 @@
        
 # Task4
 [![Video Label](http://img.youtube.com/vi/UmfGFa5bNO0/0.jpg)](https://www.youtube.com/watch?v=UmfGFa5bNO0)
+
+# 자세한 내용은 project.py에 있습니다.
