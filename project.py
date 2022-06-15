@@ -283,11 +283,11 @@ VG_Target_100_int_list = VG_Target_100_int.tolist()
 # list안에 있는 값을 25단위로 나누기 위해 일단 분류 후에 값들이 들어갈 빈 list를 만듭니다.
 VG_Target_100_int_list_25 = []
 
-# # VG_Target_100_int_list에 있는 값들을 25로 나누에 정수인 몫 만을 앞서 만들었던 빈 list에 넣습니다.
+# VG_Target_100_int_list에 있는 값들을 25로 나누에 정수인 몫 만을 앞서 만들었던 빈 list에 넣습니다.
 for i in VG_Target_100_int_list:
     VG_Target_100_int_list_25.append(i//25)
     
-# # list인 VG_Target_100_int_list_25를 series로 바꿉니다.
+# list인 VG_Target_100_int_list_25를 series로 바꿉니다.
 VG_Target_25_int = pd.Series(VG_Target_100_int_list_25)
 
 # VG_Target_25_int를 활용하여 다시 예측을 해 봅니다.
@@ -371,7 +371,7 @@ VG_Training_int_drop_0 = VG_Training_int.drop(index = VG_Training_int[VG_Trainin
 VG_Training_int_drop_1_0 = VG_Training_int_drop_0.drop(index = VG_Training_int_drop_0[VG_Training_int_drop_0['Global_Sales'] == 1].index)
 
 
-# # 전체 행이 16291 - 9634 - 2697 = 3960 으로 줄어든 것을 볼 수 있습니다.
+# 전체 행이 16291 - 9634 - 2697 = 3960 으로 줄어든 것을 볼 수 있습니다.
 # print(VG_Training_int_drop_1_0)
 # Platform  Year  Genre  Publisher  Global_Sales
 # 0            0  2006      0          0           330
